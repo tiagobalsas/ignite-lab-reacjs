@@ -20,7 +20,6 @@ export function Logo() {
         fill='#00B37E'
         d='M752.271 52.146h-4.958V19.57h4.958v32.576z'
       ></path>
-      <path fill='#29292E' d='M1440 71H0v2h1440v-2z'></path>
     </svg>
   );
 }
