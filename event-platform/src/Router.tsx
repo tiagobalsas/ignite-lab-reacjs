@@ -5,7 +5,7 @@ export function Router() {
   return (
     <Routes>
       <Route path='/' element={<h1>Home</h1>} />
-      <Route path='/evento' element={<Evento />} />
+      <Route path='/event' element={<Evento />} />
     </Routes>
   );
 }
