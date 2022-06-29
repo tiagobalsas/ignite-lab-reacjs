@@ -1,0 +1,5 @@
+{
+  "Origin Control": "off",
+  "s-maxage": 0,
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+}
